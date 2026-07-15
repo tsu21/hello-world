@@ -1,3 +1,9 @@
+---
+layout: page
+title: "software Eng. lecture note
+permalink: /docs/softwareEng2026
+---
+
 # 第1~6回 ソフトウェア工学
 #### ソフトウェアとは:
 「情報」を扱うプロダクトそのもの、またはプロダクトを提供する手段
